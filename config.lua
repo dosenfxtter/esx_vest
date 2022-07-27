@@ -7,9 +7,9 @@ Config.Settings = {
 }
 
 Config.Language = {
-    ['bulletproof_used'] = "Du hast eine Schutzweste benutzt",  -- Message when a bulletproof vest has been used
-    ['command_disabled'] = "Der Command ist nicht verfügbar",  -- Message when the command is disabled
-    ['progressbar_message'] = "Schutzweste anziehen..."  -- The text that is displayed in the progress bar
+    ['bulletproof_used'] = "You used a bulletproof vest",  -- Message when a bulletproof vest has been used
+    ['command_disabled'] = "The command is not available",  -- Message when the command is disabled
+    ['progressbar_message'] = "Put on bulletproof vest..."  -- The text that is displayed in the progress bar
 }
 
 Config.Vest = {
