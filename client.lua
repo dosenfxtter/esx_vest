@@ -32,7 +32,7 @@ AddEventHandler('lovescripting:bulletproof', function()
         else 
             ESX.Streaming.RequestAnimDict(lib, function()
                 TaskPlayAnim(playerPed, lib, anim, 8.0, -8.0, 6000, 0, 0, false, false, false)
-
+                
                 if Config.Settings.ProgressbarActiv == true then
                     exports['progressBars']:startUI(6000, Config.Language.progressbar_message)
                 end
