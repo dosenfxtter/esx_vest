@@ -2,8 +2,9 @@ Config                            = {}
 
 Config.Settings = {
     ['CommandActiv'] = false,
+    ['ProgressbarActiv'] = true,
     ['CommandName'] = "Bulletproof",
-    ['ProgressbarActiv'] = true
+    ['Itemname'] = "bulletproof"
 }
 
 Config.Language = {

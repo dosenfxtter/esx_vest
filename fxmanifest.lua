@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-games { 'gta5' }
+games {'gta5'}
 lua54 "yes"
 
 author "Hirni"
@@ -15,6 +15,6 @@ client_scripts {
 server_scripts {
     '@es_extended/locale.lua',
     '@mysql-async/lib/MySQL.lua',
-    'server.lua',
     'config.lua',
+    'server.lua',
 }
